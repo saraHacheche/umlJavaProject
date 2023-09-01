@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_RSLMMA3uEe6Nj8mU2IjVwg" name="CollegeManagementSystem">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_RmhEgA3uEe6Nj8mU2IjVwg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_gY3MkA3wEe6Nj8mU2IjVwg" name="CollegeManagementSystem">
+    <packagedElement xmi:type="uml:Class" xmi:id="_qGl2IA3wEe6Nj8mU2IjVwg" name="person">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="__gUMwA3wEe6Nj8mU2IjVwg" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_AD5a8A3xEe6Nj8mU2IjVwg" name="age">
+        <type xmi:type="uml:DataType" href="../Hotel/papyrus%20project.uml#_imS2UAVREe69c-MANvQzNw"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_AfH-YA3xEe6Nj8mU2IjVwg" name="email">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_u4A2YA3zEe6Nj8mU2IjVwg" name="inscription"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_qcd_gA3wEe6Nj8mU2IjVwg" name="teacher">
+      <generalization xmi:type="uml:Generalization" xmi:id="_bKyL4A31Ee6Nj8mU2IjVwg" general="_qGl2IA3wEe6Nj8mU2IjVwg"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_CV8WEA3xEe6Nj8mU2IjVwg" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_C6dYYA3xEe6Nj8mU2IjVwg" name="school">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_DhN2YA3xEe6Nj8mU2IjVwg" name="courses">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_wxh8wA3zEe6Nj8mU2IjVwg" name="teaching"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_q3Oo4A3wEe6Nj8mU2IjVwg" name="student">
+      <generalization xmi:type="uml:Generalization" xmi:id="_ZWlqYA31Ee6Nj8mU2IjVwg" general="_qGl2IA3wEe6Nj8mU2IjVwg"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_BaRYAA3xEe6Nj8mU2IjVwg" name="age">
+        <type xmi:type="uml:DataType" href="../Hotel/papyrus%20project.uml#_imS2UAVREe69c-MANvQzNw"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_B42xcA3xEe6Nj8mU2IjVwg" name="school">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EString"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_kY96EA3yEe6Nj8mU2IjVwg" name="courses">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EString"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_nmb7oA3yEe6Nj8mU2IjVwg" name="avgGrades">
+        <type xmi:type="uml:DataType" href="../Hotel/papyrus%20project.uml#_imS2UAVREe69c-MANvQzNw"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_vrJRkA31Ee6Nj8mU2IjVwg" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_wSepQA3zEe6Nj8mU2IjVwg" name="study"/>
+    </packagedElement>
+  </packagedElement>
+  <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_Lo5vMA3xEe6Nj8mU2IjVwg">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Lo6WQA3xEe6Nj8mU2IjVwg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
+    </eAnnotations>
+    <appliedProfile xmi:type="uml:Profile" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#ActionLanguage"/>
+  </profileApplication>
+</uml:Model>

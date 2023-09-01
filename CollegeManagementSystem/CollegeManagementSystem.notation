@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_cUuowA3wEe6Nj8mU2IjVwg" type="PapyrusUMLClassDiagram" name="NewClassDiagramExam" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_gY5BwA3wEe6Nj8mU2IjVwg" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gY5o0A3wEe6Nj8mU2IjVwg" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gY5o0Q3wEe6Nj8mU2IjVwg" type="Package_PackagedElementCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_qGoSYA3wEe6Nj8mU2IjVwg" type="Class_Shape_CN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_qGoSYg3wEe6Nj8mU2IjVwg" type="Class_NameLabel_CN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_qGoSYw3wEe6Nj8mU2IjVwg" type="Class_FloatingNameLabel_CN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_qGoSZA3wEe6Nj8mU2IjVwg" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_qGoSZQ3wEe6Nj8mU2IjVwg" type="Class_AttributeCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="__gdWsA3wEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#__gUMwA3wEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="__gdWsQ3wEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_AEBWwA3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_AD5a8A3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_AEBWwQ3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_AfSWcA3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_AfH-YA3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_AfSWcQ3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_qGoSZg3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_qGoSZw3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_qGoSaA3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qGoSaQ3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_qGoSag3wEe6Nj8mU2IjVwg" type="Class_OperationCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_u4IyMA3zEe6Nj8mU2IjVwg" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="CollegeManagementSystem.uml#_u4A2YA3zEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_u4IyMQ3zEe6Nj8mU2IjVwg"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_qGoSaw3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_qGoSbA3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_qGoSbQ3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qGoSbg3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_qGoSbw3wEe6Nj8mU2IjVwg" type="Class_NestedClassifierCompartment_CN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_qGoScA3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_qGoScQ3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_qGoScg3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qGoScw3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <element xmi:type="uml:Class" href="CollegeManagementSystem.uml#_qGl2IA3wEe6Nj8mU2IjVwg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qGoSYQ3wEe6Nj8mU2IjVwg" x="274" y="3"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_qchp4A3wEe6Nj8mU2IjVwg" type="Class_Shape_CN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_qchp4g3wEe6Nj8mU2IjVwg" type="Class_NameLabel_CN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_qchp4w3wEe6Nj8mU2IjVwg" type="Class_FloatingNameLabel_CN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_qchp5A3wEe6Nj8mU2IjVwg" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_qchp5Q3wEe6Nj8mU2IjVwg" type="Class_AttributeCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_CWGHEA3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_CV8WEA3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_CWGHEQ3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_C6l7QA3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_C6dYYA3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_C6l7QQ3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_DhVLIA3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_DhN2YA3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_DhVLIQ3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_qchp5g3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_qchp5w3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_qchp6A3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qchp6Q3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_qchp6g3wEe6Nj8mU2IjVwg" type="Class_OperationCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_wxsU0A3zEe6Nj8mU2IjVwg" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="CollegeManagementSystem.uml#_wxh8wA3zEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_wxsU0Q3zEe6Nj8mU2IjVwg"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_qchp6w3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_qchp7A3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_qchp7Q3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qchp7g3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_qchp7w3wEe6Nj8mU2IjVwg" type="Class_NestedClassifierCompartment_CN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_qchp8A3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_qchp8Q3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_qchp8g3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qchp8w3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <element xmi:type="uml:Class" href="CollegeManagementSystem.uml#_qcd_gA3wEe6Nj8mU2IjVwg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qchp4Q3wEe6Nj8mU2IjVwg" x="454" y="223"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_q3S6UA3wEe6Nj8mU2IjVwg" type="Class_Shape_CN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_q3S6Ug3wEe6Nj8mU2IjVwg" type="Class_NameLabel_CN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_q3S6Uw3wEe6Nj8mU2IjVwg" type="Class_FloatingNameLabel_CN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_q3S6VA3wEe6Nj8mU2IjVwg" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_q3ThYA3wEe6Nj8mU2IjVwg" type="Class_AttributeCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_Baah8A3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_BaRYAA3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Baah8Q3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_B4-tQA3xEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_B42xcA3xEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_B4-tQQ3xEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_kZEAsA3yEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_kY96EA3yEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_kZEAsQ3yEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_nmhbMA3yEe6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_nmb7oA3yEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_nmhbMQ3yEe6Nj8mU2IjVwg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_vrSbgA31Ee6Nj8mU2IjVwg" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="CollegeManagementSystem.uml#_vrJRkA31Ee6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_vrSbgQ31Ee6Nj8mU2IjVwg"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_q3ThYQ3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_q3ThYg3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_q3ThYw3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q3ThZA3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_q3ThZQ3wEe6Nj8mU2IjVwg" type="Class_OperationCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_wSmlEA3zEe6Nj8mU2IjVwg" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="CollegeManagementSystem.uml#_wSepQA3zEe6Nj8mU2IjVwg"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_wSmlEQ3zEe6Nj8mU2IjVwg"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_q3ThZg3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_q3ThZw3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_q3ThaA3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q3ThaQ3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_q3Thag3wEe6Nj8mU2IjVwg" type="Class_NestedClassifierCompartment_CN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_q3Thaw3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_q3ThbA3wEe6Nj8mU2IjVwg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_q3ThbQ3wEe6Nj8mU2IjVwg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q3Thbg3wEe6Nj8mU2IjVwg"/>
+        </children>
+        <element xmi:type="uml:Class" href="CollegeManagementSystem.uml#_q3Oo4A3wEe6Nj8mU2IjVwg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q3S6UQ3wEe6Nj8mU2IjVwg" x="34" y="203"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gY5o0g3wEe6Nj8mU2IjVwg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gY5o0w3wEe6Nj8mU2IjVwg"/>
+    </children>
+    <element xmi:type="uml:Package" href="CollegeManagementSystem.uml#_gY3MkA3wEe6Nj8mU2IjVwg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gY5BwQ3wEe6Nj8mU2IjVwg" x="220" y="40" width="881" height="481"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_cUuowQ3wEe6Nj8mU2IjVwg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_cUuowg3wEe6Nj8mU2IjVwg"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_cUuoww3wEe6Nj8mU2IjVwg" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="CollegeManagementSystem.uml#_RSLMMA3uEe6Nj8mU2IjVwg"/>
+  </styles>
+  <element xmi:type="uml:Model" href="CollegeManagementSystem.uml#_RSLMMA3uEe6Nj8mU2IjVwg"/>
+  <edges xmi:type="notation:Connector" xmi:id="_ZWxQkA31Ee6Nj8mU2IjVwg" type="Generalization_Edge" source="_q3S6UA3wEe6Nj8mU2IjVwg" target="_qGoSYA3wEe6Nj8mU2IjVwg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZWxQkw31Ee6Nj8mU2IjVwg" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_1U69gA31Ee6Nj8mU2IjVwg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZWxQlA31Ee6Nj8mU2IjVwg" y="39"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ZWxQkQ31Ee6Nj8mU2IjVwg"/>
+    <element xmi:type="uml:Generalization" href="CollegeManagementSystem.uml#_ZWlqYA31Ee6Nj8mU2IjVwg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZWxQkg31Ee6Nj8mU2IjVwg" points="[400, 280, -643984, -643984]$[580, 260, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZXHO0A31Ee6Nj8mU2IjVwg" id="(0.6965174129353234,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZXHO0Q31Ee6Nj8mU2IjVwg" id="(0.45454545454545453,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_bK9yEA31Ee6Nj8mU2IjVwg" type="Generalization_Edge" source="_qchp4A3wEe6Nj8mU2IjVwg" target="_qGoSYA3wEe6Nj8mU2IjVwg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_bK9yEw31Ee6Nj8mU2IjVwg" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_1VF8oA31Ee6Nj8mU2IjVwg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_bK9yFA31Ee6Nj8mU2IjVwg" x="-1" y="38"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_bK9yEQ31Ee6Nj8mU2IjVwg"/>
+    <element xmi:type="uml:Generalization" href="CollegeManagementSystem.uml#_bKyL4A31Ee6Nj8mU2IjVwg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bK9yEg31Ee6Nj8mU2IjVwg" points="[820, 300, -643984, -643984]$[640, 260, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bLMbkA31Ee6Nj8mU2IjVwg" id="(0.7291666666666666,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bLMbkQ31Ee6Nj8mU2IjVwg" id="(0.7954545454545454,1.0)"/>
+  </edges>
+</notation:Diagram>

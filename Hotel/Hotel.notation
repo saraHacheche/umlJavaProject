@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmi:id="_oXTyoAiGEe6hIYtB-ZdXJw" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <styles xsi:type="notation:StringValueStyle" xmi:id="_oXTyoQiGEe6hIYtB-ZdXJw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xsi:type="notation:DiagramStyle" xmi:id="_oXTyogiGEe6hIYtB-ZdXJw"/>
+  <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_oXTyowiGEe6hIYtB-ZdXJw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner href="Hotel.uml#_oVqM0AiGEe6hIYtB-ZdXJw"/>
+  </styles>
+  <element href="Hotel.uml#_oVqM0AiGEe6hIYtB-ZdXJw"/>
+</notation:Diagram>
